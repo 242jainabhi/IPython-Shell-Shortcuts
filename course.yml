@@ -1,4 +1,4 @@
-title: Course Title Here
-description: A description of the course.
+title: Introduction to IPython Shell
+description: Learn IPython Shell features and shortcuts.
 programming_language: python
 from: python-base-prod:20
